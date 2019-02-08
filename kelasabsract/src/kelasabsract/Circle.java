@@ -9,7 +9,7 @@ package kelasabsract;
  *
  * @author asus
  */
-public class Circle {
+public class Circle extends Shape{
     void getArea(){
         System.out.println("Circle Area");
     }
